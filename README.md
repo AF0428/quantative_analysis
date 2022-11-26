@@ -1,2 +1,2 @@
-# quantative_analysis
+# quant_analysis
 pandas hw 4
